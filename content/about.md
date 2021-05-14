@@ -12,19 +12,19 @@ The current format is to meet every Tuesday from 14:30 to 15:30 where one of the
 The summary of the presentations will be added here as a post.
 The current team is:
 
-* Kristine Aavild Juhl
-* Patrick Møller Jensen
+* Kristine A. Juhl
+* Patrick M. Jensen
 * Rasmus R. Paulsen
-* Tim Felle Olsen
-* Hans Martin Kjer
-* Vedrana Andersen Dahl
+* Tim F. Olsen
+* H. Martin Kjer
+* Vedrana A. Dahl
 * Riccardo Tonello
-* Anders Bjorholm Dahl
+* Anders B. Dahl
 * Morten Hannemose
-* Janus Nørtoft Jensen
-* Sidsel Borup Winther
-* Mathias Miceelsen Lowes
-* Bjørn Marius Schreblowski Hansen
-* Christan Keilstrup Ingwersen
+* Janus N. Jensen
+* Sidsel B. Winther
+* Mathias M. Lowes
+* Bjørn M. S. Hansen
+* Christan K. Ingwersen
 
 If you are interested to join the reading club for discussion or presenting, you are welcome to send a mail to Kristine (kajul@dtu.dk).
