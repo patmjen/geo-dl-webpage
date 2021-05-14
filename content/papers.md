@@ -1,21 +1,19 @@
 +++
 title = "Paper Pool"
-date = "2018-01-10"
+date = "2021-05-14"
 type = "about"
 +++
 
 # Selection of upcoming papers
 
-The following are the upcoming lectures, there might be a break during the summer, but we'll continue in the fall!
-
-* [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](http://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf) (Vladimir or someone else later)
-* [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf) (Vladimir or someone else later) 
-* Introduction to GANs (Gudmundur will present the 3rd of October 2018)
+* 18-05-2021 by Patrick: [Cao et al., A Comprehensive Survey on Geometric Deep Learning, 2020, IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9003285)
 
 # Paper pool
 
-The following list is the pool of papers under consideration for future lectures:
+Old list from the previous version of the journal club. To be updated.
 
+* [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](http://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf)
+* [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf)
 * [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling, NIPS 2016](http://3dgan.csail.mit.edu/)
 * [FPNN: Field Probing Neural Networks for 3D Data](http://papers.nips.cc/paper/6416-fpnn-field-probing-neural-networks-for-3d-data.pdf)
 * [Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_Shape_Completion_Using_CVPR_2017_paper.pdf)
