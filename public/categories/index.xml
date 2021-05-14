@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on geo-DL</title>
@@ -6,10 +6,24 @@
     <description>Recent content in Categories on geo-DL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://geo-dl.compute.dtu.dk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gan</title>
+      <link>http://geo-dl.compute.dtu.dk/categories/gan/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geo-dl.compute.dtu.dk/categories/gan/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="http://geo-dl.compute.dtu.dk/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>gudmundur</title>
+      <link>http://geo-dl.compute.dtu.dk/categories/gudmundur/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geo-dl.compute.dtu.dk/categories/gudmundur/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3d</title>
@@ -21,7 +35,7 @@
     </item>
     
     <item>
-      <title>Faces</title>
+      <title>faces</title>
       <link>http://geo-dl.compute.dtu.dk/categories/faces/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
@@ -30,16 +44,7 @@
     </item>
     
     <item>
-      <title>Gan</title>
-      <link>http://geo-dl.compute.dtu.dk/categories/gan/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://geo-dl.compute.dtu.dk/categories/gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geo Dl</title>
+      <title>geo-dl</title>
       <link>http://geo-dl.compute.dtu.dk/categories/geo-dl/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
@@ -48,16 +53,34 @@
     </item>
     
     <item>
-      <title>Gudmundur</title>
-      <link>http://geo-dl.compute.dtu.dk/categories/gudmundur/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      <title>shihav</title>
+      <link>http://geo-dl.compute.dtu.dk/categories/shihav/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geo-dl.compute.dtu.dk/categories/gudmundur/</guid>
+      <guid>http://geo-dl.compute.dtu.dk/categories/shihav/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kristine</title>
+      <title>pointNet</title>
+      <link>http://geo-dl.compute.dtu.dk/categories/pointnet/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geo-dl.compute.dtu.dk/categories/pointnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vladimir</title>
+      <link>http://geo-dl.compute.dtu.dk/categories/vladimir/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geo-dl.compute.dtu.dk/categories/vladimir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kristine</title>
       <link>http://geo-dl.compute.dtu.dk/categories/kristine/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
@@ -66,11 +89,11 @@
     </item>
     
     <item>
-      <title>Pointnet</title>
-      <link>http://geo-dl.compute.dtu.dk/categories/pointnet/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <title>rasmus</title>
+      <link>http://geo-dl.compute.dtu.dk/categories/rasmus/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geo-dl.compute.dtu.dk/categories/pointnet/</guid>
+      <guid>http://geo-dl.compute.dtu.dk/categories/rasmus/</guid>
       <description></description>
     </item>
     
@@ -80,33 +103,6 @@
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://geo-dl.compute.dtu.dk/categories/presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rasmus</title>
-      <link>http://geo-dl.compute.dtu.dk/categories/rasmus/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://geo-dl.compute.dtu.dk/categories/rasmus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shihav</title>
-      <link>http://geo-dl.compute.dtu.dk/categories/shihav/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://geo-dl.compute.dtu.dk/categories/shihav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vladimir</title>
-      <link>http://geo-dl.compute.dtu.dk/categories/vladimir/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://geo-dl.compute.dtu.dk/categories/vladimir/</guid>
       <description></description>
     </item>
     

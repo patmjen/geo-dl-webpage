@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rasmus on geo-DL</title>
+    <title>rasmus on geo-DL</title>
     <link>http://geo-dl.compute.dtu.dk/categories/rasmus/</link>
-    <description>Recent content in Rasmus on geo-DL</description>
+    <description>Recent content in rasmus on geo-DL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://geo-dl.compute.dtu.dk/categories/rasmus/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://geo-dl.compute.dtu.dk/categories/rasmus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1st Journal Club Meeting</title>
       <link>http://geo-dl.compute.dtu.dk/posts/1stmeeting/</link>
