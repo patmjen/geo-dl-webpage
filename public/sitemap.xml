@@ -2,19 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://geo-dl.compute.dtu.dk/about/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://geo-dl.compute.dtu.dk/papers/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+    <loc>http://geo-dl.compute.dtu.dk/posts/cao_compsurverygdl_2020/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://geo-dl.compute.dtu.dk/categories/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://geo-dl.compute.dtu.dk/posts/cyclegan/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://geo-dl.compute.dtu.dk/tags/dl/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/tags/graphs/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/tags/meshes/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/papers/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/categories/patrick/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/posts/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/tags/presentation/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/tags/survey/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/categories/survey/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/tags/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/about/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://geo-dl.compute.dtu.dk/posts/cyclegan/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://geo-dl.compute.dtu.dk/tags/gan/</loc>
@@ -23,22 +53,10 @@
     <loc>http://geo-dl.compute.dtu.dk/categories/gan/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://geo-dl.compute.dtu.dk/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://geo-dl.compute.dtu.dk/categories/gudmundur/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://geo-dl.compute.dtu.dk/tags/introduction/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://geo-dl.compute.dtu.dk/posts/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://geo-dl.compute.dtu.dk/tags/presentation/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://geo-dl.compute.dtu.dk/tags/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://geo-dl.compute.dtu.dk/posts/ganintro/</loc>

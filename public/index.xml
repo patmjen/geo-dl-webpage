@@ -6,24 +6,35 @@
     <description>Recent content on geo-DL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://geo-dl.compute.dtu.dk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://geo-dl.compute.dtu.dk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Journal Group</title>
-      <link>http://geo-dl.compute.dtu.dk/about/</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <title>Cao et al., A Comprehensive Survey on Geometric Deep Learning</title>
+      <link>http://geo-dl.compute.dtu.dk/posts/cao_compsurverygdl_2020/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://geo-dl.compute.dtu.dk/about/</guid>
-      <description>IACG Journal club for geometric deep learning This journal club is a continuation of an earlier version started by Rasmus R. Paulsen and Gudmundur Einarsson (Now alumni). Our aim is to strengthen the internal knowledge of the cutting edge research in geometric deep learning. The current format is to meet every Tuesday from 14:30 to 15:30 where one of the participants presents a paper related to geometric deep learning which followed by discussion.</description>
+      <guid>http://geo-dl.compute.dtu.dk/posts/cao_compsurverygdl_2020/</guid>
+      <description>Presentation can be found here.
+Surveys current (as of 2020) methods used for geometric deep learning as well as a list of datasets with links, and some pointers on open problems. Also gives theoretical background but not as well as Bronstein et al., 2016. For graphs both spectral and spatial methods are covered and it is noted that spatial methods (which simply aggregates neighbor features) are winning out over more complicated spectral ones.</description>
     </item>
     
     <item>
       <title>Paper Pool</title>
       <link>http://geo-dl.compute.dtu.dk/papers/</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://geo-dl.compute.dtu.dk/papers/</guid>
-      <description>Selection of upcoming papers  18-05-2021 by Patrick: Cao et al., A Comprehensive Survey on Geometric Deep Learning, 2020, IEEE Access  Paper pool Old list from the previous version of the journal club. To be updated.
- PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space Frustum PointNets for 3D Object Detection from RGB-D Data Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling, NIPS 2016 FPNN: Field Probing Neural Networks for 3D Data Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis DeepShape: Deep-Learned Shape Descriptor for 3D Shape Retrieval Learning shape correspondence with anisotropic convolutional neural networks ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans Two Stream 3D Semantic Scene Completion Papers from geometric deeplearning.</description>
+      <description>Upcoming papers  01-06-2021 by Christian: Hanocka et al., MeshCNN: A Network with an Edge, 2019, ACM Trans. Graph. 08-06-2021 by Patrick: Wickramasinghe et al., Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data, 2020, MICCAI 15-06-2021 by Rasmus: Paulsen et al., Multi-view consensus CNN for 3D facial landmark placement, 2018, ACCV 22-06-2021 by Kristine: Implicit Functions  Paper pool Old list from the previous version of the journal club. To be updated.</description>
+    </item>
+    
+    <item>
+      <title>Visual Computing Journal Club for Geometric Deep Learning</title>
+      <link>http://geo-dl.compute.dtu.dk/about/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://geo-dl.compute.dtu.dk/about/</guid>
+      <description>Our aim with this journal club is to strengthen our knowledge of the cutting edge research in geometric deep learning. The current format is to meet every Tuesday from 14:30 to 15:30 where one of the participants presents a paper related to geometric deep learning which followed by discussion. The summary of the presentations will be added here as a post.
+The current team is:
+ Kristine A. Juhl Patrick M.</description>
     </item>
     
     <item>
