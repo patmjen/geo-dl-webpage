@@ -1,14 +1,17 @@
 +++
 title = "Paper Pool"
-date = "2021-05-14"
+date = "2021-05-18"
 type = "about"
 +++
 
-# Selection of upcoming papers
+## Upcoming papers
 
-* 18-05-2021 by Patrick: [Cao et al., A Comprehensive Survey on Geometric Deep Learning, 2020, IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9003285)
+* 01-06-2021 by Christian: [Hanocka et al., MeshCNN: A Network with an Edge, 2019, ACM Trans. Graph.](https://arxiv.org/pdf/1809.05910.pdf)
+* 08-06-2021 by Patrick: [Wickramasinghe et al., Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data, 2020, MICCAI](https://arxiv.org/pdf/1912.03681.pdf)
+* 15-06-2021 by Rasmus: [Paulsen et al., Multi-view consensus CNN for 3D facial landmark placement, 2018, ACCV](https://arxiv.org/pdf/1910.06007.pdf)
+* 22-06-2021 by Kristine: Implicit Functions
 
-# Paper pool
+## Paper pool
 
 Old list from the previous version of the journal club. To be updated.
 
@@ -26,7 +29,7 @@ Old list from the previous version of the journal club. To be updated.
 * [Flex-Convolution (Deep Learning Beyond Grid-Worlds)](https://arxiv.org/abs/1803.07289)
 * [Monte Carlo Convolution for Learning on Non-Uniformly Sampled Point Clouds](https://arxiv.org/abs/1806.01759)
 
-## Relevant papers from CVPR 2018
+### Relevant papers from CVPR 2018
 
 * [Super-FAN: Integrated Facial Landmark Localization and Super-Resolution of Real-World Low Resolution Faces in Arbitrary Poses With GANs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bulat_Super-FAN_Integrated_Facial_CVPR_2018_paper.pdf)
 * [Multi-View Harmonized Bilinear Network for 3D Object Recognition](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0142.pdf)
@@ -45,8 +48,9 @@ Old list from the previous version of the journal club. To be updated.
 * [Recurrent Slice Networks for 3D Segmentation of Point Clouds](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2058.pdf)
 * [PU-Net: Point Cloud Upsampling Network](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1248.pdf)
 
-# Articles covered:
+## Papers covered
 
+* [Cao et al., A Comprehensive Survey on Geometric Deep Learning, 2020, IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9003285) (Patrick)
 * [SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yi_SyncSpecCNN_Synchronized_Spectral_CVPR_2017_paper.pdf) (Shihav)
 * [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) (Vladimir)
 * [Cascade Multi-view Hourglass Model for Robust 3D Face Alignment](https://ibug.doc.ic.ac.uk/media/uploads/documents/fg2018_3dalignment.pdf) (Kristine)
